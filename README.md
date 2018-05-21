@@ -1,6 +1,6 @@
 # test-simple-contract
 
-nvm use v8.11.1
+node v8.11.1
 
 ## Installation
 
